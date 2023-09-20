@@ -1,16 +1,11 @@
-# analog_clock
+# Analog Clock Light & Dark Theme - Flutter UI
 
-A new Flutter project.
+Designed a nice clean analog clock app UI by using flutter. Our clock supports both the Dark and Light theme. 
 
-## Getting Started
+**Packages used:**
 
-This project is a starting point for a Flutter application.
+- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
+- google_fonts: [link](https://pub.dev/packages/google_fonts)
+- provider: [link](https://pub.dev/packages/provider)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Analog Clock App Final UI
