@@ -9,3 +9,6 @@ Designed a nice clean analog clock app UI by using flutter. Our clock supports b
 - provider: [link](https://pub.dev/packages/provider)
 
 ### Analog Clock App Final UI
+
+![Preview](/Screenshot_1695218364.png)
+![Preview](/Screenshot_1695218383.png)
